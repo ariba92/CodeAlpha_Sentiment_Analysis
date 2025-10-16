@@ -66,6 +66,6 @@ This project fulfills **Task 4: Sentiment Analysis** for the CodeAlpha internshi
 **Ariba Khatoon**  
 Bachelor of Computer Applications (BCA) student  
 Aspiring Data Analyst | Python • NLP • Power BI  
-
+🔗 [GitHub Profile] https://github.com/ariba92
 
 
